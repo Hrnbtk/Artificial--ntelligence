@@ -1,1 +1,1 @@
-# Artificial--ntelligence
+# Artificial-Intelligence
